@@ -179,13 +179,22 @@ Make sure you have Flutter SDK installed.
 [Flutter installation guide →](https://flutter.dev/docs/get-started/install)
 
 ### Installation  
+
+## 1. Clone repository
 ```bash
-# Clone repository
 git clone https://github.com/NoorMustafa4556/Holy-Quran-App-Flutter.git
+```
+
+## 2. Navigate to the directory
+```bash
 cd Holy-Quran-App-Flutter
+```
 
-# Install dependencies
+## Install dependencies
+```bash
 flutter pub get
-
-# Run on device/emulator
+```
+## 3. Run on device/emulator
+```bash
 flutter run
+```
